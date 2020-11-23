@@ -6,3 +6,5 @@ IPython
 jupyter
 seaborn
 scipy
+sqlalchemy
+psycopg2
